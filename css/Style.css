@@ -168,6 +168,7 @@ form .form-group{
     margin-top: .9rem;
     margin-right: 2rem;
     border-radius: 3rem;
+    max-width: fit-content;
 }
 
 form .form-group .form-input{
